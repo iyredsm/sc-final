@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Epilogue:200,300,500,700'); 
+
+
+h1{
+    color:rgb(0, 0, 0);
+    font-family: "Sekogure" ;
+    font-size:40px
+
+}
+
+p{
+    font-size:20px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-family:"dotum";
+    
+}
+
+ul{
+    font-size: 20px;
+    color:black;
+    text-align:left;
+    font-family: "dotum"
+}
+div {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+
+
+.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #ba6dbe;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+.button:hover {background-color: #e1a1e4}
+  
+.button:active {
+    background-color: #e1a1e4;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+    color:white;
+  }
