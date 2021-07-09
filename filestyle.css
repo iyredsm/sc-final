@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Epilogue:200,300,500,700'); 
 
+body{
+  background-image:url("bg.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 
+}
 h1{
     color:rgb(0, 0, 0);
     font-family: "Sekogure" ;
